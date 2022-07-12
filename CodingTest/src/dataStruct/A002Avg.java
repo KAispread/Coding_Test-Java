@@ -2,10 +2,10 @@ package dataStruct;
 
 import java.util.Scanner;
 
-public class Avg002 {
+public class A002Avg {
 
 	public static void main(String[] args) {
-		Avg002 sample = new Avg002();
+		A002Avg sample = new A002Avg();
 		sample.getAverage();
 	}
 	

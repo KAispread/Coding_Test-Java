@@ -1,7 +1,7 @@
 package dataStruct;
 
 import java.util.Scanner;
-public class SumConnectedNumber006 {
+public class A006SumConnectedNumber0 {
 	/*	연속된 자연수의 합 구하기
 	 *  자연수 N은 몇 개의 연속된 자연수의 합으로 나타낼 수 있다. (1 <= N <= 10000000) 의 자연수 N에서
 	 *  몇 개의 연속된 자연수의 합으로 나타낼 수 있는지 확인하고 싶다. ex) 15 = 15, 7+8, 4+5+6, 1+2+3+4+5
@@ -11,7 +11,7 @@ public class SumConnectedNumber006 {
 	 * */
 	
 	public static void main(String[] args) {
-		SumConnectedNumber006 sample = new SumConnectedNumber006();
+		A006SumConnectedNumber0 sample = new A006SumConnectedNumber0();
 		sample.correctAnswer();
 	}
 	

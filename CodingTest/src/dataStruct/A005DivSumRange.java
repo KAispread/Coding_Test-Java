@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.util.Scanner;
 import java.util.StringTokenizer;
 
-public class DivSumRange005 {
+public class A005DivSumRange {
 	/* N개의 수 A1, A2, ..., An 이 주어졌을 때 연속된 부분의 합이 M으로 나누어떨어지는 구간의 개수를 구하는
 	 * 프로그램을 작성하시오. 즉, Ai + ... + Aj (i <= j)의 합이 M으로 나누어떨어지는 (i, j)의 쌍의 개수를
 	 * 구하시오.
@@ -16,7 +16,7 @@ public class DivSumRange005 {
 	 * 
 	 * */
 	public static void main(String[] args) {
-		DivSumRange005 sample = new DivSumRange005();
+		A005DivSumRange sample = new A005DivSumRange();
 		try {
 			sample.myAnswer();
 		} catch(IOException e) {

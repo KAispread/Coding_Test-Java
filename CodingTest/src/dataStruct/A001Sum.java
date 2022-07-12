@@ -2,10 +2,10 @@ package dataStruct;
 
 import java.util.Scanner;
 
-public class Sum001 {
+public class A001Sum {
 
 	public static void main(String[] args) {
-		Sum001 sample = new Sum001();
+		A001Sum sample = new A001Sum();
 		sample.sampleCode();
 //		System.out.println("sum all number is = " + sample.sumOfTheNumber("11", "10987654321"));
 	}

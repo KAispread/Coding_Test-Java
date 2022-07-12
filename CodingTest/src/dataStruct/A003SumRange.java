@@ -6,7 +6,7 @@ import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-public class SumRange003 {
+public class A003SumRange {
 
    public static void main(String[] args) {
       Scanner sc = new Scanner(System.in);
